@@ -1,0 +1,14 @@
+{
+  "name": "proyecto-json-sv",
+  "version": "1.0.0",
+  "description": "Armaremos un pequeño sv con informacion de cursos",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json"
+  },
+  "author": "Nachito",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^1.0.0-alpha.23"
+  }
+}
